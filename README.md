@@ -10,13 +10,13 @@
 <br>
 
 ![Maintenance](https://shields.io/maintenance/yes/2025?style=for-the-badge)
-![License](https://shields.io/github/license/nijon4rch/nitch?style=for-the-badge)
+![License](https://shields.io/github/license/nijon4rch/pngitch?style=for-the-badge)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/nijon4rch/nitch?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/nijon4rch/nitch?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/nijon4rch/nitch?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/nijon4rch/pngitch?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/nijon4rch/pngitch?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nijon4rch/pngitch?style=for-the-badge)
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/nijon4rch/nitch?style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/nijon4rch/pngitch?style=for-the-badge)
 
 </div>
 
@@ -70,7 +70,7 @@ flags:
 
 ### 1) clone repo
 ```fish
-git clone https://github.com/nijon4rch/nitch.git
+git clone https://github.com/nijon4rch/pngitch.git
 ```
 ### 2) change dir to `nitch`
 ```fish
