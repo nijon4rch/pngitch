@@ -1,5 +1,7 @@
 import
   std/os
 
-func getUser*(): string =
-  result = getEnv("USER")
+proc getUser*(): string =
+  let
+    hostname = readFile("/etc/hostname")
+  result = getEnv("USER") & "@" & hostname
