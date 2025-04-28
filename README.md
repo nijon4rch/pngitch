@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](/../images/logo.png?raw=true)
+<img src="https://github.com/user-attachments/assets/7e351130-2cdd-45f5-9921-7a67026c3663" width="350px">
 
 # `NiTch`
 
@@ -22,7 +22,7 @@
 
 # Description 📖
 
-![Screenshots](/../images/screenshots.png?raw=true)
+<img src="https://github.com/user-attachments/assets/6179db79-d3cb-40c3-bb99-2d2a3e1bbe1d" width="42%" align="right">
 
 My fork of https://github.com/ssleert/nitch with support for rendering png logo with kitty image protocol and a few changed modules.
 >[!WARNING]
